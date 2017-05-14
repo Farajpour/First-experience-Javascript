@@ -8,3 +8,4 @@ Step 3 : click Calculation
 
 Show Result
 
+<img src="https://raw.githubusercontent.com/Farajpour/First-experience-Javascript/master/Result.png"/>
